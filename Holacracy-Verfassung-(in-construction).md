@@ -1,22 +1,51 @@
-**Einführung: Verfassung v4.1.4.DE**
+**Einführung: Holokratische Verfassung MGE 1.0**
+
+<span id="_Toc438284454" class="anchor"></span>**Lizenzierung und
+Verwendung**
+
+Dieses Dokument wurde von abgeleitet von der offiziellen Holacracy-Verfassung
+in der Version 4.1.4, die von HolacracyOne LLC entwickelt und von dwarfs and Giants
+ins Deutsche übersetzt wurde. Mehr zur offiziellen Version finden Sie online
+unter: http://holacracy.org/constitution
+
+Aus diesem Grund ist, wenn in diesem Dokument die Rede von der holokratischen
+Verfassung ist, stets die abgeleitete Version von Mein Grundeinkommen e.V.
+gemeint, nicht die eingetragene Marke Holacracy® von HolacracyOne LLC. Für
+Änderungen, die Mein Grundeinkommen e.V an diesem Dokument vornimmt, trägt
+HolacracyOne keine Verantwortung.
+
+<span id="_Toc438228033" class="anchor"><span id="_Toc438284455"
+class="anchor"></span></span>
+
+**Teilnahme am Open-Source-Project für das Holacracy-System:**
+[***github.com/holacracyone/Holacracy-Constitution***](https://github.com/holacracyone/Holacracy-Constitution)
+
+<span id="_Toc438228034" class="anchor"><span id="_Toc438284456"
+class="anchor"></span></span>**Weitere Informationen oder Support zum
+Holacracy System:** [**holacracy.org**](http://holacracy.org/)
+
+<span id="_Toc438228036" class="anchor"><span id="_Toc438284458"
+class="anchor"></span></span>**Holacracy ist eine Marke von
+HolacracyOne, LLC**
+
 
 <span id="_Toc438228028" class="anchor"><span id="_Toc438284450"
-class="anchor"></span></span>**Was ist die Holacracy Verfassung?**
+class="anchor"></span></span>**Was ist die holokratische Verfassung?**
 
-Die Holacracy Verfassung dokumentiert die wesentlichen Regeln, die
-Struktur und die Prozesse des „Betriebssystems“ Holacracy für die
+Die holokratische Verfassung dokumentiert die wesentlichen Regeln, die
+Struktur und die Prozesse des „Betriebssystems“ Holokratie für die
 Führung und Verwaltung einer Organisation. Sie bildet die Grundlage für
-eine Organisation, die Holacracy einsetzen möchte. Dazu verankert sie
+eine Organisation, die Holokratie einsetzen möchte. Dazu verankert sie
 die Machtstrukturen in konkreten und dokumentierten „Spielregeln“, die
 gleichermaßen für alle Beteiligten gelten und auf die alle Beteiligten
 zurückgreifen können.
 
 <span id="_Toc438228029" class="anchor"><span id="_Toc438284451"
-class="anchor"></span></span>**Wie sollte die Holacracy Verfassung
+class="anchor"></span></span>**Wie sollte die holokratische Verfassung
 genutzt werden?**
 
 Jede Erklärung oder Vereinbarung, in der eine Entscheidung festgehalten
-ist sich unter Verwendung des Holacracy Systems zu organisieren, sollte
+ist sich unter Verwendung des holokratischen Systems zu organisieren, sollte
 auf die Verfassung verweisen. Dabei kann es sich um einen formellen Satz
 gesetzlicher Gemeindeverordnungen oder vergleichbarer
 Betriebsvereinbarungen handeln, oder um eine einfache
@@ -28,14 +57,14 @@ Beispieldeklaration nur zur Erläuterung angefügt wurden, aber nicht Teil
 des Verfassungsdokuments sind.
 
 <span id="_Toc438228030" class="anchor"><span id="_Toc438284452"
-class="anchor"></span></span>**Was die Holacracy Verfassung nicht ist**
+class="anchor"></span></span>**Was die holokratische Verfassung nicht ist**
 
-Die Holacracy Verfassung ist kein kompletter Satz einer Geschäftsordnung
+Die holokratische Verfassung ist kein kompletter Satz einer Geschäftsordnung
 und keine formelle Betriebsvereinbarung. (HolacracyOne veröffentlicht
 seinen eigenen Gesellschaftsvertrag separat als Beispiel für ein
 gesetzliches Regelungsdokument, das auf diese Verfassung verweist und
 diese beinhaltet.) Die Verfassung ist auch kein Benutzerhandbuch und
-keine Anleitung, anhand derer Sie lernen können, wie Holacracy verwendet
+keine Anleitung, anhand derer Sie lernen können, wie Holokratie verwendet
 wird. Wie das Regelbuch für eine spezifische Sportart kann es als
 Referenz in kritischen Situationen dienen, aber durch das alleinige
 Lesen lernen Sie nicht, wie das Spiel gespielt wird.
@@ -45,7 +74,7 @@ class="anchor"></span></span>**Rechtliche Hinweise**
 
 HolacracyOne ist keine Anwaltskanzlei. Die in diesem Dokument
 enthaltenen Informationen stellen eine Dokumentation der Regeln und
-Prozesse von Holacracy dar. Sie sind nicht als Rechtsberatung vorgesehen
+Prozesse von Holokratie dar. Sie sind nicht als Rechtsberatung vorgesehen
 und sollten nicht auf eine bestimmte faktische Situation angewendet
 werden. Sie sollten sich nicht auf die Rechtsfähigkeit der in diesem
 Dokument enthaltenen Informationen verlassen und sie nicht für die
@@ -60,48 +89,8 @@ zulässigen Ausmaß nicht für Schäden jeglicher Art haftbar, die aus der
 Verwendung dieses Dokuments entstehen.<span id="_Toc438228032"
 class="anchor"></span>
 
-<span id="_Toc438284454" class="anchor"></span>**Lizenzierung und
-Verwendung**
-
-Wie Linux®, Wikipedia® und Java® ist auch Holacracy® eine eingetragene
-Marke. Sie gehört HolacracyOne LLC. Und wie die anderen Verwalter
-offener Plattformen hat auch HolacracyOne das Ziel, die Integrität
-seiner Marke und die Qualität dessen, was sie darstellt, zu bewahren.
-Aus diesem Grund bitten wir Sie, eigene abgeleitete Arbeiten von der
-Holacracy® Verfassung unter den Bedingungen unserer Open-Source-Lizenz
-CC BY-SA 4.0 zu erstellen und zu teilen. Um darauf hinzuweisen, dass
-Ihre Arbeit von der offiziellen Holacracy Verfassung abgeleitet ist,
-nehmen Sie den Link http:// holacracy.org/constitution auf. Neben dieser
-Referenz dürfen Sie jedoch Ihre abgeleitete Arbeit nicht unter
-Verwendung der Marke Holacracy benennen oder anderweitig kennzeichnen,
-um eine Verwechslung zwischen Ihrer Version und dem offiziellen Dokument
-von Holacracy zu vermeiden. Wenn Sie Fragen haben, wenden Sie sich bitte
-an HolacracyOne oder dwarfs and Giants!
-
-<span id="_Toc438228033" class="anchor"><span id="_Toc438284455"
-class="anchor"></span></span>
-
-**Teilnahme am Open-Source-Project für das Holacracy-System:**
-[***github.com/holacracyone/Holacracy-Constitution***](https://github.com/holacracyone/Holacracy-Constitution)
-
-<span id="_Toc438228034" class="anchor"><span id="_Toc438284456"
-class="anchor"></span></span>**Weitere Informationen oder Support zum
-Holacracy System:** [**holacracy.org**](http://holacracy.org/)
-
-<span id="_Toc438228035" class="anchor"><span id="_Toc438284457"
-class="anchor"></span></span>**Die neueste Version dieses Dokuments
-finden Sie im Internet:**
-[**holacracy.org/constitution**](http://holacracy.org/constitution)
-
-<span id="_Toc438228036" class="anchor"><span id="_Toc438284458"
-class="anchor"></span></span>**Holacracy ist eine Marke von
-HolacracyOne, LLC**
-
-<span id="_Toc438284459" class="anchor"></span>**Für die Übersetzung
-verantwortlich:**
-
-[**www.dwarfsandgiants.org**](http://www.dwarfsandgiants.org)
-
+Wenn außerhalb dieses Dokuments von "Lead Link" gesprochen wird,
+wird damit das in diesem Dokument definierte Konzept "Kreis-Lead" gemeint.
 **  
 **
 
@@ -147,7 +136,7 @@ Angelegenheiten der Inkraftsetzung**
 Dieser Artikel behandelt den Übergang vom Organisationssystem vor
 Holacracy hin zum Betrieb unter der Verfassung und liefert Regelungen
 für die Übernahme von Holacracy im Rahmen einer Board-Struktur mit einer
-Gruppe Repräsentativer anstelle eines einzelnen Lead Links.
+Gruppe Repräsentativer anstelle eines einzelnen Kreis-Leads.
 
 <span id="_Toc438284468" class="anchor"></span>**PRÄAMBEL**
 
@@ -322,48 +311,48 @@ Genehmigungen in einer Policy des Kreises erteilt.
 In jedem Fall sind alle Delegationen von Domains immer auf die zuvor
 bereits definierten Befugnisse des Kreises selbst begrenzt.
 
-## 2.2 LEAD LINK DES KREISES
-Jeder Kreis hat eine „**Lead Link-Rolle**“ mit der Definition aus
+## 2.2 KREIS-LEAD DES KREISES
+Jeder Kreis hat eine „**Kreis-Lead-Rolle**“ mit der Definition aus
 Anhang A und den weiteren in diesem Abschnitt definierten
 Accountabilities und Befugnissen.
-Die Person, der die Lead Link-Rolle übertragen wird, wird solange sie
-in dieser Funktion handelt, als der „**Lead Link**“ des Kreises
+Die Person, der die Kreis-Lead-Rolle übertragen wird, wird solange sie
+in dieser Funktion handelt, als der „**Kreis-Lead**“ des Kreises
 bezeichnet.
 
 ### 2.2.1 HÄLT NICHT AUSDIFFERENZIERTE FUNKTIONEN
 
-Der Lead Link eines Kreises übernimmt den Purpose und alle
+Der Kreis-Lead eines Kreises übernimmt den Purpose und alle
 Accountabilities des Kreises selbst und kontrolliert alle für den Kreis
-definierten Domains so als ob der Kreis eine Rolle wäre und der Lead
-Link diese Rolle ausfüllen würde. Dies gilt jedoch nur in dem Ausmaß, in
+definierten Domains so als ob der Kreis eine Rolle wäre und der Kreis-Lead
+diese Rolle ausfüllen würde. Dies gilt jedoch nur in dem Ausmaß, in
 dem diese Accountabilities und Domains nicht einer Rolle innerhalb des
 Kreises zugeteilt oder anderweitig delegiert wurden.
 
-Darüber hinaus kann der Lead Link keine Policies definieren, die die
+Darüber hinaus kann der Kreis-Lead keine Policies definieren, die die
 Rollen des Kreises einschränken, außer über den Governance-Prozess des
 Kreises.
 
 ### 2.2.2 DEFINIERT PRIORITÄTEN UND STRATEGIEN
 
-Der Lead Link eines Kreises kann relative Prioritäten für den Kreis
-definieren. Darüber hinaus kann der Lead Link eine oder mehrere
+Der Kreis-Lead eines Kreises kann relative Prioritäten für den Kreis
+definieren. Darüber hinaus kann der Kreis-Lead eine oder mehrere
 allgemeinere „Strategien“ für den Kreis definieren. Dabei handelt es
 sich um einfache Entscheidungsregeln, die den Rollen des Kreises laufend
 Orientierung geben ihre eigenen Prioritäten zu setzen.
 
-### 2.2.3 ÄNDERUNG DER LEAD LINK-ROLLE
+### 2.2.3 ÄNDERUNG DER KREIS-LEAD-ROLLE
 
-Ein Kreis darf seiner eigenen Lead Link-Rolle keine Accountabilities
+Ein Kreis darf seiner eigenen Kreis-Lead-Rolle keine Accountabilities
 oder andere Funktionen hinzufügen, den Purpose der Rolle ändern oder die
 Rolle vollständig abschaffen.
 
 Ein Kreis darf jedoch Accountabilities, Domains, Befugnisse oder
-Funktionen seiner Lead Link-Rolle entfernen, indem er sie einer anderen
+Funktionen seiner Kreis-Lead-Rolle entfernen, indem er sie einer anderen
 Rolle innerhalb des Kreises überträgt, oder indem er alternative Mittel
 definiert, sie auszuüben.
 
 Wenn dies passiert, wird automatisch das betreffende Element oder die
-Befugnis von der Lead Link-Rolle entfernt, solange die Delegation in
+Befugnis von der Kreis-Lead-Rolle entfernt, solange die Delegation in
 Kraft ist.
 
 ## 2.3 KERNMITGLIEDER
@@ -378,10 +367,9 @@ Bedingungen dieses Abschnitts getroffen werden, sind die Kernmitglieder
 eines Kreises:
 
 * (a) jeder Partner, der im Kreis eine definierte Rolle füllt;
-* (b) der Lead Link des Kreises, wie in Abschnitt 2.2 definiert;
-* (c) jeder für den Kreis gewählte Rep Link, wie in Abschnitt 2.6.4
+* (b) der Kreis-Lead des Kreises, wie in Abschnitt 2.2 definiert;
+* (c) jeder für den Kreis gewählte Kreis-Rep, wie in Abschnitt 2.6.4
     definiert;
-* (d) und jeder Cross Link des Kreises, wie in Abschnitt 2.7 definiert;
 
 ### 2.3.2 AUSSCHLUSS FÜR MEHRFACH BESETZTE ROLLEN
 
@@ -395,7 +383,7 @@ angeben, wie dieser Vertreter bestimmt wird.
 Darüber hinaus haben alle Partner, die die Rolle vertreten, die
 Verpflichtung, die von den ausgeschlossenen Partnern mitgeteilten
 Spannungen zu berücksichtigen und zu verarbeiten. Genau so, wie es ein
-Rep Link erledigen würde, wenn die Rolle ein Sub-Kreis wäre. Dies gilt
+Kreis-Rep erledigen würde, wenn die Rolle ein Sub-Kreis wäre. Dies gilt
 nicht, wenn die Policy eine alternative Vorgehensweise für die
 ausgeschlossenen Partner definiert, um die mit dieser Rolle verbundenen
 Spannungen zu verarbeiten.
@@ -403,43 +391,43 @@ Spannungen zu verarbeiten.
 ### 2.3.3 AUSSCHLUSS AUFGRUND GERINGER ZUTEILUNGEN
 
 Manchmal teilt ein Partner einer definierten Rolle in einem Kreis nur
-eine sehr geringe, nahezu unbedeutende Aufmerksamkeit zu. Wenn der Lead
-Link des Kreises begründet der Meinung ist, dass dies der Fall ist, kann
-der Lead Link den Partner aufgrund dieser Rollenzuweisung davon
+eine sehr geringe, nahezu unbedeutende Aufmerksamkeit zu. Wenn der Kreis-Lead
+des Kreises begründet der Meinung ist, dass dies der Fall ist, kann
+der Kreis-Lead den Partner aufgrund dieser Rollenzuweisung davon
 ausschließen, als Kernmitglied zu agieren.
 
-Wenn ein Partner auf diese Weise ausgeschlossen wird, hat der Lead Link
+Wenn ein Partner auf diese Weise ausgeschlossen wird, hat der Kreis-Lead
 die Verpflichtung, die von dem ausgeschlossenen Partner mitgeteilten
-Spannungen zu berücksichtigen und zu verarbeiten, genau wie es ein Rep
-Link erledigen würde, wäre die Rolle ein Sub-Kreis. Dies gilt nicht,
+Spannungen zu berücksichtigen und zu verarbeiten, genau wie es ein Kreis-Rep
+erledigen würde, wäre die Rolle ein Sub-Kreis. Dies gilt nicht,
 wenn eine alternative Vorgehensweise für den ausgeschlossenen Partner
 definiert wurde, um die mit dieser Rolle verbundenen Spannungen zu
 verarbeiten.
 
 ### 2.3.4 SPEZIELLE ERNENNUNGEN VON KERNMITGLIEDERN
 
-Der Lead Link eines Kreises kann neben den von dieser Verfassung
+Der Kreis-Lead eines Kreises kann neben den von dieser Verfassung
 bestimmten, weitere Personen als Kernmitglieder ernennen und diese
 Ernennungen jederzeit auch wieder entfernen.
 
 ## 2.4 ÜBERTRAGUNG EINER ROLLE
 
-Der Lead Link eines Kreises kann Personen die definierten Rollen im Kreis übertragen, es sei denn, diese Befugnis wurde eingeschränkt oder
+Der Kreis-Lead eines Kreises kann Personen die definierten Rollen im Kreis übertragen, es sei denn, diese Befugnis wurde eingeschränkt oder
 delegiert.
 
 ### 2.4.1 UNBESETZTE ROLLEN
 
 Wann immer eine definierte Rolle in einem Kreis unbesetzt ist, übernimmt
-der Lead Link des Kreises die Rolle.
+der Kreis-Lead des Kreises die Rolle.
 
 ### 2.4.2 ROLLEN MEHREREN PERSONEN ÜBERTRAGEN
 
-Ein Lead Link kann mehreren Personen dieselbe definierte Rolle
+Ein Kreis-Lead kann mehreren Personen dieselbe definierte Rolle
 übertragen, solange dadurch nicht die Klarheit beeinträchtigt wird, wer
 die Accountabilities und Befugnisse der Rolle in allgemeinen Situationen
 ausübt.
 
-Als eine Möglichkeit, diese Klarheit zu bewahren, kann ein Lead Link
+Als eine Möglichkeit, diese Klarheit zu bewahren, kann ein Kreis-Lead
 zusammen mit jeder Übertragung einen „**Fokus**“ spezifizieren. Das ist
 ein Bereich oder ein Kontext, auf den sich diese Person während der
 Ausübung der Rolle konzentriert.
@@ -453,15 +441,15 @@ sind, nur innerhalb des spezifizierten Fokus für die jeweilige Person.
 Wenn Sie eine Rolle ausüben, können Sie diese jederzeit niederlegen, es
 sei denn, Sie haben dies anderweitig vereinbart. Das geschieht, indem
 Sie denjenigen benachrichtigen, der die Übertragung dieser Rolle
-kontrolliert. In der Regel ist dies der Lead Link des Kreises.
+kontrolliert. In der Regel ist dies der Kreis-Lead des Kreises.
 
 ## 2.5 GEWÄHLTE ROLLEN
 Jeder Kreis umfasst eine **„Facilitator-Rolle“,** eine
-**„Secretary-Rolle“** und eine **„Rep Link-Rolle“** mit den in Anhang
+**„Secretary-Rolle“** und eine **„Kreis-Rep-Rolle“** mit den in Anhang
 A bereitgestellten Definitionen. Es handelt sich dabei um die
 **„gewählten Rollen“** des Kreises. Die Personen, die diese Rollen
 ausüben, werden jeweils zum **„Facilitator“,** **„Secretary“** oder
-**„Rep Link“** des Kreises, wenn sie in der Funktion der gewählten
+**„Kreis-Rep“** des Kreises, wenn sie in der Funktion der gewählten
 Rolle handeln.
 
 ### 2.5.1 WAHLEN UND WÄHLBARKEIT
@@ -470,8 +458,8 @@ Der Facilitator eines Kreises moderiert regelmäßig Wahlen, um ein
 Kernmitglied des Kreises in jede seiner gewählten Rollen zu wählen. Dazu
 werden die in Artikel III definierten Prozesse und Regeln verwendet.
 Alle Kernmitglieder stehen für die Wahl zur Verfügung. Jedes
-Kernmitglied kann mehrere gewählte Rollen einnehmen, außer dem Lead Link
-eines Kreises, der nicht zum Facilitator oder Rep Link des Kreises
+Kernmitglied kann mehrere gewählte Rollen einnehmen, außer dem Kreis-Lead
+eines Kreises, der nicht zum Facilitator oder Kreis-Rep des Kreises
 gewählt werden kann.
 
 ### 2.5.2 AMTSZEIT UND NEUWAHL
@@ -487,8 +475,8 @@ auslösen.
 
 Ein Kreis kann seinen gewählten Rollen Accountabilities oder Domains
 hinzufügen sowie diese abändern und wieder entfernen. Ein Kreis kann
-dies jedoch nur seiner eigenen Rep Link-Rolle hinzufügen, und nicht
-einer Rep Link-Rolle, die dem Kreis von einem Sub-Kreis zugefügt wurde.
+dies jedoch nur seiner eigenen Kreis-Rep-Rolle hinzufügen, und nicht
+einer Kreis-Rep-Rolle, die dem Kreis von einem Sub-Kreis zugefügt wurde.
 Darüber hinaus kann kein Kreis einen Purpose, eine Domain,
 Accountabilities oder Befugnisse ändern oder entfernen, die einer
 gewählten Rolle durch diese Verfassung erteilt wurden, und er kann auch
@@ -507,7 +495,7 @@ Zeitpunkt die folgende Prioritätenreihenfolge für den Stellvertreter:
     oder
 * (b) der amtierende Facilitator des Kreises; oder
 * (c) der amtierende Secretary des Kreises; oder
-* (d) der Lead Link des Kreises; oder
+* (d) der Kreis-Lead des Kreises; oder
 * (e) das erste Kernmitglied des Kreises, das sich bereit erklärt, als
     Stellvertreter zu handeln.
 
@@ -538,114 +526,44 @@ Sub-Kreises im Kreis beibehalten werden.
 Ein Sub-Kreis kann auch aufgelöst werden, indem er vom Kreis wieder
 zurück in eine einfache Rolle umgewandelt wird.
 
-### 2.6.3 LEAD LINK ZUM SUB-KREIS
+### 2.6.3 KREIS-LEAD ZUM SUB-KREIS
 
-Der Lead Link eines Kreises kann eine Person bestimmen, die die Lead
-Link-Rolle für einen Sub-Kreis übernimmt, wobei dieselben Regeln gelten,
-wie wenn der Lead Link eine andere definierte Rolle des Kreises
+Der Kreis-Lead eines Kreises kann eine Person bestimmen, die die
+Kreis-Lead-Rolle für einen Sub-Kreis übernimmt, wobei dieselben Regeln gelten,
+wie wenn der Kreis-Lead eine andere definierte Rolle des Kreises
 überträgt.
 
-### 2.6.4 REP LINK ZUM SUPER-KREIS
+### 2.6.4 KREIS-REP ZUM SUPER-KREIS
 
-Normalerweise wählt jeder Kreis einen Rep Link zu seinem Super-Kreis.
+Normalerweise wählt jeder Kreis einen Kreis-Rep zu seinem Super-Kreis.
 Eine solche Wahl ist jedoch nicht erforderlich, wenn ein Kreis keine
-Kernmitglieder hat, außer denjenigen, die die Rollen des Lead Link oder
-Cross Link im Kreis erfüllen. In diesem Fall wird der gewählte Rep Link
+Kernmitglieder hat, außer denjenigen, die die Rolle des Kreis-Lead
+im Kreis erfüllen. In diesem Fall wird der gewählte Kreis-Rep
 auch dann nicht zu einem Kernmitglied des Super-Kreises, wenn die Wahl
 durchgeführt wird.
 
-## 2.7 CROSS LINKS
-Ein Kreis kann eine **„Cross Link-Policy“** erstellen, um eine Einheit
-oder Gruppe einzuladen, an dem Governance-Prozess und den operativen
-Prozessen eines anderen Kreises teilzunehmen. Die Einheit oder Gruppe,
-die zur Teilnahme eingeladen wurde, ist die **„verlinkte Einheit“,**
-die auch außerhalb der Organisation liegen kann, oder bei der es sich
-um eine andere Rolle oder einen anderen Kreis innerhalb der
-Organisation handeln kann. Der Kreis, der diesen Link erhält, ist der
-**„Ziel-Kreis“,** und er muss der Kreis sein, der die Policy erstellt,
-oder einer seiner Sub-Kreise.
+## 2.7 ROLLEN IN KREISE VERLINKEN (TRANSVERSALE ROLLEN)
 
-Nachdem eine Cross Link-Policy übernommen wurde, kann die verlinkte
-Einheit einen Vertreter zuordnen, der unter den Bedingungen dieses
-Abschnitts am Ziel-Kreis teilnimmt. Es sei denn, in der Policy werden
-andere Bedingungen definiert.
+Ein Kreis hat die Befugnis, Rollen aus anderen Kreisen in sich zu "verlinken".
 
-### 2.7.1 CROSS LINK-ROLLE
+Sobald eine Rolle in einen anderen Kreis verlinkt ist, gilt sie als Teil
+der Governance dieses anderen Kreises. Dieser Kreis darf die Rolle ergänzen
+und später ändern, was er hinzufügt. Er darf jedoch weder die Rolle löschen,
+noch irgendetwas ändern, was von einem anderen Kreis hinzugefügt wurde, und
+ein anderer Kreis darf nicht ändern oder entfernen, was er hinzufügt. Die
+Befugnis, Zuweisungen der Rolle hinzuzufügen oder zu ändern, verbleibt bei
+ihrem Herkunftskreis. Der Kreis, in den sich eine Rolle verlinkt, gilt weder
+als ihr Super-Kreis, noch gilt der innere Kreis der Rolle als sein Sub-Kreis.
 
-Wenn die verlinkte Einheit eine Rolle ist, kann diese Rolle wie
-nachfolgend beschrieben am Ziel-Kreis teilnehmen. Sie wird zur „**Cross
-Link-Rolle**“, und die Person, die sie einnimmt, wird zum „**Cross
-Link**“.
-
-Wenn die verlinkte Einheit ein Kreis oder eine Gruppe ist, wird
-stattdessen automatisch eine neue spezielle Cross Link-Rolle erstellt.
-Diese befindet sich sowohl innerhalb der verlinkten Einheit, als auch
-innerhalb des Ziel-Kreises, ganz ähnlich wie ein Rep Link. In diesem
-Fall hat die Cross Link-Rolle denselben Purpose und dieselben
-Accountabilities wie ein Rep Link. Wenn aber der „**Kreis**“ in der
-Beschreibung der Rep Link-Rolle referenziert wird, ist damit die
-verlinkte Einheit gemeint, und der „**Super-Kreis**“ meint stattdessen
-den Ziel-Kreis.
-
-Wenn die verlinkte Einheit weder einen klaren Purpose noch klare
-Accountabilities aufweist, muss die Cross Link-Policy weiter klären, was
-die Cross Link-Rolle innerhalb des Ziel-Kreises darstellt.
-
-### 2.7.2 CROSS LINK-ÜBERTRAGUNG
-
-Wenn es sich bei der verlinkten Einheit um einen Kreis oder eine Gruppe
-handelt, kann sie eine Person bestimmen, die die Cross Link-Rolle
-übernimmt. Dazu verwendet sie einen beliebigen Prozess, den sie bereits
-für die Bestimmung von Personen für die Übernahme definierter Rollen
-oder vergleichbarer Arbeitsfunktionen verwendet.
-
-Wenn eine verlinkte Einheit eine Gruppe repräsentiert, die die Befugnis
-einer solchen Übertragung nicht eindeutig festgelegt hat, kann der
-Ziel-Kreis stattdessen der Cross Link-Rolle eine Person zuordnen. Es sei
-denn, dies ist in der Cross Link-Policy anders spezifiziert.
-
-In jedem Fall kann jeder Cross Link-Rolle nur eine Person übertragen
-werden, außer wenn durch die Cross Link-Policy etwas Anderes zugelassen
-wird. Wenn eine Cross Link-Rolle unbesetzt ist, wird sie als nicht
-existent betrachtet und es gibt keine Standardzuordnung und keine
-Wirkung.
-
-### 2.7.3 CROSS LINK-BEFUGNIS
-
-Ein Cross Link wird zu einem Kernmitglied des Ziel-Kreises und kann die
-Befugnisse eines Kernmitglieds nutzen, um Spannungen zu verarbeiten, die
-mit dem Ziel-Kreis zusammenhängen und die verlinkte Einheit
-einschränken.
-
-Über die Entfernung von Einschränkungen hinaus, kann ein Cross Link den
-Ziel-Kreis nicht nutzen, um mehr Kapazitäten für die verlinkte Einheit
-zu schaffen, es sei denn, diese Kapazitäten würden auch dem Ziel-Kreis
-helfen, seinen eigenen Purpose oder Accountabilities auszudrücken.
-
-### 2.7.4 ERGÄNZUNGEN ZU EINER CROSS LINK-ROLLE
-
-Eine verlinkte Einheit kann ihre Cross Link-Rolle über ihren eigenen
-Governance-Prozess ergänzen. Ein Ziel-Kreis kann einer Cross Link-Rolle
-über seinen eigenen Governance-Prozess Domains oder Accountabilities
-hinzufügen und diese später abändern oder entfernen.
-
-### 2.7.5 GRENZEN UND DELEGATION
-
-Die verlinkte Einheit, die zu einem Ziel-Kreis eingeladen wird, kann
-eine in einem anderen Kreis enthaltene Rolle sein. In diesem Fall kann
-der andere Kreis die verlinkte Einheit in eine andere seiner Rollen
-ändern, von der er annimmt, dass sie besser geeignet ist, oder die
-Auswahl der verlinkten Einheit an einen seiner Sub-Kreise delegieren.
-
-Der Ziel-Kreis kann auch die Anforderung zur Einrichtung eines Cross
-Links an einen seiner eigenen Sub-Kreise delegieren. In diesem Fall wird
-dieser Sub-Kreis zum Ziel-Kreis für den Link.
-
-In jedem Fall muss eine Delegation über eine Policy jenes Kreises
-erfolgen, der die Delegation vornimmt. Darüber hinaus muss jede Änderung
-oder Delegation alle Einschränkungen oder Policies berücksichtigen, die
-in der ursprünglichen Cross Link-Policy spezifiziert waren, mit der die
-Einladung für den Cross Link definiert wurde.
+Ein Kreis darf die Verlinkung einer Rolle aufheben, indem er die
+Richtlinie, die sie zur Verlinkung eingeladen hat, oder einen anderen,
+in dieser Richtlinie formulierten Mechanismus, wieder entfernt. Auch
+eine Rolle darf entscheiden, sich selbst wieder aus einem Kreis zu
+entfernen, in den sie sich verlinkt hat, sofern eine Richtlinie innerhalb
+der Rolle oder eine, die auf den Super-Kreis der Rolle wirkt, nicht etwas
+anderes sagt. Sobald die Verlinkung der Rolle mit einem Kreis gelöst wurde,
+wird jedwede Governance, die der Rolle durch diesen Kreis hinzugefügt
+wurde, automatisch entfernt.
 
 # ARTIKEL III: GOVERNANCE-PROZESS
 ## 3.1 WIRKUNGSRAHMEN DER GOVERNANCE
@@ -839,9 +757,9 @@ berechtigt zu einer vollständigen Teilnahme und werden für die Dauer
 eines Governance-Meetings zu Kernmitgliedern, selbst wenn sie
 normalerweise keine Kernmitglieder sind.
 
-Darüber hinaus können der Lead Link und alle Rep Links oder Cross Links
+Darüber hinaus können der Kreis-Lead und alle Kreis-Reps
 zum Kreis jeweils maximal eine zusätzliche Person einladen, allein zu
-dem Zweck, um den Link bei der Verarbeitung einer spezifischen Spannung
+dem Zweck, um die Rolle bei der Verarbeitung einer spezifischen Spannung
 zu unterstützen. Der eingeladene Teilnehmer wird dann ebenfalls für die
 Dauer dieses Governance-Meetings zu einem Kernmitglied.
 
@@ -1158,9 +1076,9 @@ Prozessversagen erklären.
 Der Facilitator eines Kreises kann ein Prozessversagen innerhalb eines
 seiner Sub-Kreise erklären, wenn er ein Verhalten- oder Ergebnismuster
 innerhalb des Sub-Kreises erkannt hat, das den Regeln dieser Verfassung
-widerspricht. Wenn jedoch dieser Facilitator auch der Lead Link oder
-Facilitator des Sub-Kreises ist, können auch der Secretary oder der Rep
-Link des Super-Kreises diese Feststellung treffen.
+widerspricht. Wenn jedoch dieser Facilitator auch der Kreis-Lead oder
+Facilitator des Sub-Kreises ist, können auch der Secretary oder der Kreis-Rep
+des Super-Kreises diese Feststellung treffen.
 
 ### 3.5.3 PROZESSWIEDERHERSTELLUNG
 
@@ -1230,7 +1148,7 @@ dies in einem der folgenden Bereiche fordern:
     reguläre, wiederkehrende Actions fertiggestellt haben, die Sie
     üblicherweise in Ausübung Ihrer Rollen im Kreis ausführen. Sie
     müssen außerdem alle Metrics nachverfolgen und berichten, die Ihren
-    Rollen vom Lead Link des Kreises oder von einer anderen Rolle oder
+    Rollen vom Kreis-Lead des Kreises oder von einer anderen Rolle oder
     einem anderen Prozess, die die Befugnis besitzen, die Metrics des
     Kreises zu definieren, zugeordnet wurden.
 
@@ -1298,22 +1216,20 @@ Einschränkungen:
 * (c) **Kreisbedürfnisse vor individuellen Zielen:** Wenn Sie bewerten,
     wie Sie Ihre Zeit, Aufmerksamkeit und andere Ressourcen auf Ihre
     Arbeit innerhalb des Kreises aufteilen, müssen Sie alle offiziellen
-    Priorisierungen oder Strategien (zB jene vom Lead
-    Link spezifizierten) des Kreises integrieren und sich nach
-    diesen ausrichten.
+    Priorisierungen oder Strategien (zB jene vom Kreis-Lead spezifizierten)
+    des Kreises integrieren und sich nach diesen ausrichten.
 
-### 4.1.4 LINKS KÖNNEN PFLICHTEN ÜBERTRAGEN
+### 4.1.4 KREIS-LEAD UND KREIS-REP KÖNNEN PFLICHTEN ÜBERTRAGEN
 
-Als Lead Link, Rep Link oder Cross Link in einem Kreis können Sie eine
+Als Kreis-Lead oder Kreis-Rep in einem Kreis können Sie eine
 andere Person einladen, den Kreismitgliedern des Kreises die in diesem
 Abschnitt spezifizierten Verpflichtungen zu übertragen. Sie dürfen diese
 Einladung nur aussprechen, um die Verarbeitung einer bestimmten Spannung
-zu unterstützen, die die Einheit betrifft, von der aus Sie verlinkt
-sind, und nur dann, wenn auch Sie die Spannung wahrnehmen und an ihrer
-Bearbeitung beteiligt bleiben.
+zu unterstützen, die Ihren Herkunftskreis betrifft, und nur dann, wenn
+auch Sie die Spannung wahrnehmen und an ihrer Bearbeitung beteiligt bleiben.
 
 Die Person, die Sie einladen, wird vorübergehend zu einem vollständigen
-Kreismitglied, als ob sie auch Ihre Link-Rolle übernehmen würde, aber
+Kreismitglied, als ob sie auch Ihre Rolle übernehmen würde, aber
 nur, während direkt diese spezifische Spannung bearbeitet wird. Sie
 können diese Einladung jederzeit zurückziehen.
 
@@ -1377,7 +1293,7 @@ verwenden:
 
 * (c) **Überprüfung der Metrics:** Der Facilitator fordert jeden
     Teilnehmer auf, Daten für alle Metrics mitzuteilen, die diesem
-    Teilnehmer vom Lead Link oder von einer anderen Rolle oder einem
+    Teilnehmer vom Kreis-Lead oder von einer anderen Rolle oder einem
     anderen Prozess, die die Metrics des Kreises definieren,
     zugeordnet wurden.
 
@@ -1393,7 +1309,7 @@ verwenden:
     berücksichtigt werden, bis es entweder fertiggestellt oder
     verworfen wurde. Für Updates über Fortschritte eines Projekts oder
     einer Accountability eines Sub-Kreises muss der Facilitator sowohl
-    dem Link Lead als auch dem Rep Link des Sub-Kreises die Gelegenheit
+    dem Kreis-Lead als auch dem Kreis-Rep des Sub-Kreises die Gelegenheit
     geben, Aktualisierungen mitzuteilen.
 
 * (e) **Triage-Punkte:** Der Facilitator ist dafür verantwortlich, eine
@@ -1425,9 +1341,9 @@ oder abzuändern.
 
 Wenn eine definierte Rolle des Kreises bei einem Tactical Meeting ganz
 oder teilweise nicht vertreten ist, weil eine Person abwesend ist, kann
-der Lead Link des Kreises diese Rolle einnehmen, um die Lücke zu füllen.
+der Kreis-Lead des Kreises diese Rolle einnehmen, um die Lücke zu füllen.
 
-Wenn der Lead Link ebenfalls abwesend ist, kann jeder beliebige
+Wenn der Kreis-Lead ebenfalls abwesend ist, kann jeder beliebige
 Teilnehmer Next Actions oder Projekte für diese Rolle akzeptieren. Diese
 können jedoch von der Person, die die Rolle normalerweise einnimmt, so
 behandelt werden, als seien es nur Anfragen, die gemäß der Bedingungen
@@ -1476,7 +1392,7 @@ Spannungen aufzulösen, die durch Ihre Individual Actions erzeugt wurden.
 Wenn Ihre Individual Action letztlich eine Aktion innerhalb einer
 anderen Rolle war, oder wenn sie eine Domain oder eine Policy verletzt
 hat, müssen Sie auf Anfrage jeder Person, die normalerweise diese Rolle,
-diese Domain oder diese Policy einnimmt, oder auf Anfrage des Lead Link
+diese Domain oder diese Policy einnimmt, oder auf Anfrage des Kreis-Lead
 des Kreises, der die betroffene Einheit beinhaltet, damit aufhören, eine
 vergleichbare Individual Action zu unternehmen.
 
@@ -1497,7 +1413,7 @@ beseitigen.
 Nachdem Sie eine Individual Action ergriffen haben, haben Sie die
 Pflicht, die Prioritäten für die in diesem Abschnitt definierten
 Folgeanforderungen höher zu setzen als für die Erledigung einer Ihrer
-regulären Arbeiten. Der Lead Link eines beliebigen Kreises, der alle
+regulären Arbeiten. Der Kreis-Lead eines beliebigen Kreises, der alle
 Rollen umfasst, die von Ihrer Aktion signifikant beeinträchtigt wurden,
 kann jedoch diese Standardpriorität ändern.
 
@@ -1521,31 +1437,29 @@ anfänglichen Kreis einrichten, um den allgemeinen Purpose der Organisation ausz
 Kreis in der Organisation und kontrolliert automatisch alle Domains,
 die die Organisation selbst kontrolliert.
 
-### 5.2.1 LINKS ZUM BOARD
+### 5.2.1 KREIS-LEAD ZUM BOARD
 
-Die Ratifizierer können einen anfänglichen Lead Link für das Board
+Die Ratifizierer können einen anfänglichen Kreis-Lead für das Board
 ernennen.
 
-Alternativ können die Ratifizierer das Board ohne Lead Link verwenden
-und einen oder mehrere anfängliche Cross Links für das Board anstelle
-eines Lead Links einsetzen.
+Alternativ können die Ratifizierer das Board ohne Kreis-Lead verwenden.
 
-### 5.2.2 HANDELN OHNE LEAD LINK
+### 5.2.2 HANDELN OHNE KREIS-LEAD
 
-Wenn das Board keinen Lead Link hat, werden alle Entscheidungen, die
-normalerweise die Befugnis des Lead Links bedingen, zu gültigen
+Wenn das Board keinen Kreis-Lead hat, werden alle Entscheidungen, die
+normalerweise die Befugnis des Kreis-Leads bedingen, zu gültigen
 Ergebnissen des Governance-Prozesses des Kreises. Alle Rollen innerhalb
-des Kreises können damit die Befugnis des Lead Link ausüben, indem sie
+des Kreises können damit die Befugnis des Kreis-Lead ausüben, indem sie
 eine Entscheidung als Governance-Änderung für den Kreis vorschlagen.
 Dazu verwenden sie den Prozess und die Regeln aus Artikel III.
 
-Darüber hinaus wird in einem Board ohne Lead Link die normale Befugnis
+Darüber hinaus wird in einem Board ohne Kreis-Lead die normale Befugnis
 von Rollen aufgehoben, autokratisch Kreis-Domains zu beeinflussen
 (gemäß Abschnitt 2.1.2). Stattdessen dürfen die Rollen des Kreises nur
 dann seine Domains beeinflussen, wenn eine Policy dies explizit
 erlaubt, oder alternativ, indem sie die Aktion unter Anwendung des
 Governance-Prozesses des Kreises vorschlagen, genau wie oben für die
-Ausübung der Lead Link-Befugnis beschrieben.
+Ausübung der Kreis-Lead-Befugnis beschrieben.
 
 ### 5.2.3 PURPOSE DER ORGANISATION
 
@@ -1558,34 +1472,29 @@ den geschichtlichen Verlauf, die aktuellen Kapazitäten, die verfügbaren
 Ressourcen, Partner, Charakter, Kultur, Geschäftsstruktur, Marke,
 Marktkenntnis und alle anderen relevanten Ressourcen oder Faktoren.
 
-Der Lead Link des Boards erbt diese Accountability standardmäßig und
+Der Kreis-Lead des Boards erbt diese Accountability standardmäßig und
 kann den Purpose erfassen und aktualisieren, um diese Accountability
 auszudrücken.
 
-Wenn das Board keinen Lead Link hat, fällt diese Accountability
-automatisch an jeden Cross Link im Board, und jeder von ihnen kann den
-Purpose aktualisieren, indem er die Aktualisierung über den
-Governance-Prozess des Kreises vorschlägt.
-
 ### 5.2.4 AKTUALISIERUNG DES BOARDS
 
-Der Lead Link des Boards hat die Befugnis, den Kreis zu benennen, seine
+Der Kreis-Lead des Boards hat die Befugnis, den Kreis zu benennen, seine
 Domains zu klären und seine Accountabilities hinzuzufügen oder zu
 ändern.
 
-Der Lead Link des Boards kann außerdem nach Bedarf einen eigenen
+Der Kreis-Lead des Boards kann außerdem nach Bedarf einen eigenen
 Vertreter ernennen, es sei denn, dies wurde von den Ratifizierern anders
 spezifiziert.
 
 ### 5.2.5 KEIN SUPER-KREIS
 
-Das Board hat keinen Super-Kreis und wählt keinen Rep Link.
+Das Board hat keinen Super-Kreis und wählt keinen Kreis-Rep.
 
 ## 5.3 STARTSTRUKTUR
-Der Lead Link des Boards kann außerhalb des von dieser Verfassung
+Der Kreis-Lead des Boards kann außerhalb des von dieser Verfassung
 geforderten üblichen Governance-Prozesses eine Startstruktur und
 andere Governance für die Organisation definieren. Wenn diese
-Startstruktur andere Kreis enthält, können die Lead Links dieser
+Startstruktur andere Kreis enthält, können die Kreis-Leads dieser
 Kreise dasselbe innerhalb ihrer Kreise tun. Diese Befugnis darf nur
 genutzt werden, um eine Startstruktur für einen Kreis zu definieren,
 von der ausgegangen wird, bevor der Kreis beginnt, seinen
@@ -1618,8 +1527,8 @@ der Organisation darauf zugreifen können.
 
 # ANHANG A: DEFINITION DER ZENTRALEN ROLLEN
 
-## LEAD LINK
-**PURPOSE:** _Der Lead Link übernimmt den Purpose des allgemeinen
+## KREIS-LEAD
+**PURPOSE:** _Der Kreis-Lead übernimmt den Purpose des allgemeinen
  Kreises._
 
 **DOMAINS:** Rollenübertragungen innerhalb des Kreises
@@ -1640,12 +1549,12 @@ der Organisation darauf zugreifen können.
     Super-Kreis, um seinen Purpose und seine Accountabilities zu
     realisieren
 
-_Der Lead Link übernimmt auch alle nicht delegierten Domains und Accountabilities auf Kreisebene._
+_Der Kreis-Lead übernimmt auch alle nicht delegierten Domains und Accountabilities auf Kreisebene._
 
-## REP LINK
-**PURPOSE:** _Innerhalb des Super-Kreises übernimmt der Rep Link den
+## KREIS-REP
+**PURPOSE:** _Innerhalb des Super-Kreises übernimmt der Kreis-Rep den
 Purpose des Sub-Kreises; innerhalb des Sub-Kreises ist der Purpose des
-Rep Links: Spannungen, die relevant für die Verarbeitung im
+Kreis-Reps: Spannungen, die relevant für die Verarbeitung im
 Super-Kreis sind zu kanalisieren und aufzulösen._
 
 **ACCOUNTABILITIES:**
