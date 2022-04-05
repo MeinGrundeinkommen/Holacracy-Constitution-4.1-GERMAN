@@ -1,4 +1,4 @@
-**Einführung: Holokratische Verfassung MGE 1.0**
+**Einführung: Holokratische Verfassung MGE 1.1**
 
 <span id="_Toc438284454" class="anchor"></span>**Lizenzierung und
 Verwendung**
@@ -368,8 +368,6 @@ eines Kreises:
 
 * (a) jeder Partner, der im Kreis eine definierte Rolle füllt;
 * (b) der Kreis-Lead des Kreises, wie in Abschnitt 2.2 definiert;
-* (c) jeder für den Kreis gewählte Kreis-Rep, wie in Abschnitt 2.6.4
-    definiert;
 
 ### 2.3.2 AUSSCHLUSS FÜR MEHRFACH BESETZTE ROLLEN
 
@@ -382,8 +380,7 @@ angeben, wie dieser Vertreter bestimmt wird.
 
 Darüber hinaus haben alle Partner, die die Rolle vertreten, die
 Verpflichtung, die von den ausgeschlossenen Partnern mitgeteilten
-Spannungen zu berücksichtigen und zu verarbeiten. Genau so, wie es ein
-Kreis-Rep erledigen würde, wenn die Rolle ein Sub-Kreis wäre. Dies gilt
+Spannungen zu berücksichtigen und zu verarbeiten. Dies gilt
 nicht, wenn die Policy eine alternative Vorgehensweise für die
 ausgeschlossenen Partner definiert, um die mit dieser Rolle verbundenen
 Spannungen zu verarbeiten.
@@ -398,8 +395,7 @@ ausschließen, als Kernmitglied zu agieren.
 
 Wenn ein Partner auf diese Weise ausgeschlossen wird, hat der Kreis-Lead
 die Verpflichtung, die von dem ausgeschlossenen Partner mitgeteilten
-Spannungen zu berücksichtigen und zu verarbeiten, genau wie es ein Kreis-Rep
-erledigen würde, wäre die Rolle ein Sub-Kreis. Dies gilt nicht,
+Spannungen zu berücksichtigen und zu verarbeiten. Dies gilt nicht,
 wenn eine alternative Vorgehensweise für den ausgeschlossenen Partner
 definiert wurde, um die mit dieser Rolle verbundenen Spannungen zu
 verarbeiten.
@@ -444,12 +440,11 @@ Sie denjenigen benachrichtigen, der die Übertragung dieser Rolle
 kontrolliert. In der Regel ist dies der Kreis-Lead des Kreises.
 
 ## 2.5 GEWÄHLTE ROLLEN
-Jeder Kreis umfasst eine **„Facilitator-Rolle“,** eine
-**„Secretary-Rolle“** und eine **„Kreis-Rep-Rolle“** mit den in Anhang
-A bereitgestellten Definitionen. Es handelt sich dabei um die
+Jeder Kreis umfasst eine **„Facilitator-Rolle“** und eine
+**„Secretary-Rolle“** mit den in Anhang
+A bereitgestellten Definitionen. Bei Bedarf auch die **„Kreis-Rep-Rolle“** wie in Artikel 2.8 definiert. Es handelt sich dabei um die
 **„gewählten Rollen“** des Kreises. Die Personen, die diese Rollen
-ausüben, werden jeweils zum **„Facilitator“,** **„Secretary“** oder
-**„Kreis-Rep“** des Kreises, wenn sie in der Funktion der gewählten
+ausüben, werden jeweils zum **„Facilitator“**, **„Secretary“** oder **„Kreis-Rep“** des Kreises, wenn sie in der Funktion der gewählten
 Rolle handeln.
 
 ### 2.5.1 WAHLEN UND WÄHLBARKEIT
@@ -474,9 +469,7 @@ auslösen.
 ### 2.5.3 ÄNDERN GEWÄHLTER ROLLEN
 
 Ein Kreis kann seinen gewählten Rollen Accountabilities oder Domains
-hinzufügen sowie diese abändern und wieder entfernen. Ein Kreis kann
-dies jedoch nur seiner eigenen Kreis-Rep-Rolle hinzufügen, und nicht
-einer Kreis-Rep-Rolle, die dem Kreis von einem Sub-Kreis zugefügt wurde.
+hinzufügen sowie diese abändern und wieder entfernen.
 Darüber hinaus kann kein Kreis einen Purpose, eine Domain,
 Accountabilities oder Befugnisse ändern oder entfernen, die einer
 gewählten Rolle durch diese Verfassung erteilt wurden, und er kann auch
@@ -533,15 +526,6 @@ Kreis-Lead-Rolle für einen Sub-Kreis übernimmt, wobei dieselben Regeln gelten,
 wie wenn der Kreis-Lead eine andere definierte Rolle des Kreises
 überträgt.
 
-### 2.6.4 KREIS-REP ZUM SUPER-KREIS
-
-Normalerweise wählt jeder Kreis einen Kreis-Rep zu seinem Super-Kreis.
-Eine solche Wahl ist jedoch nicht erforderlich, wenn ein Kreis keine
-Kernmitglieder hat, außer denjenigen, die die Rolle des Kreis-Lead
-im Kreis erfüllen. In diesem Fall wird der gewählte Kreis-Rep
-auch dann nicht zu einem Kernmitglied des Super-Kreises, wenn die Wahl
-durchgeführt wird.
-
 ## 2.7 ROLLEN IN KREISE VERLINKEN (TRANSVERSALE ROLLEN)
 
 Ein Kreis hat die Befugnis, Rollen aus anderen Kreisen in sich zu "verlinken".
@@ -564,6 +548,20 @@ der Rolle oder eine, die auf den Super-Kreis der Rolle wirkt, nicht etwas
 anderes sagt. Sobald die Verlinkung der Rolle mit einem Kreis gelöst wurde,
 wird jedwede Governance, die der Rolle durch diesen Kreis hinzugefügt
 wurde, automatisch entfernt.
+
+## 2.8 KREIS-REPS ZUM UMFASSENDEN KREIS (SUPER-KREIS)
+
+Jedes Kreismitglied eines Kreises darf jederzeit eine Wahl anfordern, um jemanden als „Kreis-Rep“ des Kreises zu wählen oder zu ersetzen, um diesen Kreis in jedem umfassenderen Kreis unterstützend zu vertreten, der ihn enthält. Der\*Die gewählte Kreis-Rep übt eine „Kreis-Rep Rolle” im Kreis aus, mit dem Sinn und Zweck, “Für die Verarbeitung im umfassenderen Kreis relevante Spannungen sind nach außen geleitet und gelöst”, und den folgenden Verantwortlichkeiten:
+
+ * (a) Versuchen, Spannungen zu verstehen, die von Rollen-Leads innerhalb des Kreises mitgeteilt werden
+ * (b) Spannungen identifizieren, die zur Verarbeitung in einem umfassenderen Kreis, der den Kreis beinhaltet, geeignet sind
+ * (c) Spannungen in einem umfassenderen Kreis verarbeiten, um Einschränkungen des Kreises zu beseitigen
+
+Der Kreis muss den integrativen Wahlprozess anwenden, der in dieser Verfassung definiert ist, um eine\*n Kreis-Rep zu wählen, sofern eine Richtlinie keinen alternativen Prozess definiert. Nur die Kreismitglieder des Kreises sind für seine Kreis-Rep Rolle wählbar. Es darf nicht mehr als eine Person gleichzeitig als Kreis-Rep seines\*ihres Kreises dienen, sofern nicht eine Richtlinie eines ihn beinhaltenden Kreises dies erlaubt.
+
+Der\*Die gewählte Kreis-Rep wird ein Kreismitglied jedes Kreises, der diesen Kreis beinhaltet, mit der Befugnis, seinen\*ihren Kreis zu repräsentieren, genau wie ein Kreis-Lead. Ein ihn beinhaltender Kreis darf durch eine Richtlinie begrenzen oder verhindern, dass diese Kreis-Reps seine Kreismitglieder werden, doch nur falls seine Rollen einen anderen Weg haben, der eine vergleichbare Repräsentation innerhalb dieses Kreises gewährleistet.
+
+Ein Kreis darf Domänen oder Verantwortlichkeiten zu seiner eigenen Kreis-Rep Rolle hinzufügen, sowie diese Ergänzungen anpassen oder entfernen. Kein Kreis darf den Sinn und Zweck der Rolle anpassen oder entfernen, noch irgendwelche Verantwortlichkeiten, die für diese Rolle im Rahmen dieser Verfassung definiert wurden.
 
 # ARTIKEL III: GOVERNANCE-PROZESS
 ## 3.1 WIRKUNGSRAHMEN DER GOVERNANCE
@@ -757,15 +755,16 @@ berechtigt zu einer vollständigen Teilnahme und werden für die Dauer
 eines Governance-Meetings zu Kernmitgliedern, selbst wenn sie
 normalerweise keine Kernmitglieder sind.
 
-Darüber hinaus können der Kreis-Lead und alle Kreis-Reps
-zum Kreis jeweils maximal eine zusätzliche Person einladen, allein zu
+Darüber hinaus kann der Kreis-Lead zum Kreis jeweils maximal eine zusätzliche Person einladen, allein zu
 dem Zweck, um die Rolle bei der Verarbeitung einer spezifischen Spannung
 zu unterstützen. Der eingeladene Teilnehmer wird dann ebenfalls für die
 Dauer dieses Governance-Meetings zu einem Kernmitglied.
 
-Neben den in diesem Absatz aufgelisteten Personen ist kein anderer
-berechtigt, an den Governance-Meetings des Kreises teilzunehmen, außer
-wenn ausdrücklich durch eine Policy des Kreises dazu eingeladen wird.
+Wenn ein Kreismitglied Vorschläge macht oder Einwände erhebt, darf es nur die Rollen im Kreis repräsentieren, die es entweder als Rollen-Lead ausübt oder als Kreis-Rep repräsentiert. Ein Kreismitglied darf zudem eine Rolle vertreten, für die es vorübergehend von einem\*r ihrer Rollen-Leads die Erlaubnis hat, solange bis diese abläuft oder zurückgezogen wird\*r ihrer Rollen-Leads die Erlaubnis hat, solange bis diese abläuft oder zurückgezogen wird.
+
+Als Kreis-Rep für einen Kreis darfst du jede\*n Partner\*in einladen, einem Governance Meeting eines Kreises beizuwohnen, der deinen Kreis unmittelbar enthält. Du darfst diese Einladung nur gegenüber einem\*r Partner\*in auf einmal aussprechen, und lediglich um dabei zu helfen, eine spezifische Spannung zu verarbeiten, die den von dir repräsentierten Kreis betrifft. Du musst diese Spannung selbst auch empfinden und glauben, dass es Sinn macht, sie im Kreis zu verarbeiten. Dein eingeladener Gast wird ein temporäres Kreismitglied für die Dauer des Meetings, oder bis du die Einladung zurücknimmst. Dein Gast darf im Meeting zusammen mit dir deinen Kreis vertreten, jedoch nur während der Verarbeitung dieser spezifischen Spannung.
+
+Abgesehen von den oben Genannten darf niemand sonst an den Governance Meetings eines Kreises teilnehmen.
 
 ### 3.3.2 BENACHRICHTIGUNG UND BESCHLUSSFÄHIGKEIT
 
@@ -1077,8 +1076,7 @@ Der Facilitator eines Kreises kann ein Prozessversagen innerhalb eines
 seiner Sub-Kreise erklären, wenn er ein Verhalten- oder Ergebnismuster
 innerhalb des Sub-Kreises erkannt hat, das den Regeln dieser Verfassung
 widerspricht. Wenn jedoch dieser Facilitator auch der Kreis-Lead oder
-Facilitator des Sub-Kreises ist, können auch der Secretary oder der Kreis-Rep
-des Super-Kreises diese Feststellung treffen.
+Facilitator des Sub-Kreises ist, kann auch der Secretary des Super-Kreises diese Feststellung treffen.
 
 ### 3.5.3 PROZESSWIEDERHERSTELLUNG
 
@@ -1219,9 +1217,9 @@ Einschränkungen:
     Priorisierungen oder Strategien (zB jene vom Kreis-Lead spezifizierten)
     des Kreises integrieren und sich nach diesen ausrichten.
 
-### 4.1.4 KREIS-LEAD UND KREIS-REP KÖNNEN PFLICHTEN ÜBERTRAGEN
+### 4.1.4 KREIS-LEAD KANN PFLICHTEN ÜBERTRAGEN
 
-Als Kreis-Lead oder Kreis-Rep in einem Kreis können Sie eine
+Als Kreis-Lead in einem Kreis können Sie eine
 andere Person einladen, den Kreismitgliedern des Kreises die in diesem
 Abschnitt spezifizierten Verpflichtungen zu übertragen. Sie dürfen diese
 Einladung nur aussprechen, um die Verarbeitung einer bestimmten Spannung
@@ -1308,9 +1306,8 @@ verwenden:
     explizit Updates für ein spezifisches Projekt anfordert, muss dieses
     berücksichtigt werden, bis es entweder fertiggestellt oder
     verworfen wurde. Für Updates über Fortschritte eines Projekts oder
-    einer Accountability eines Sub-Kreises muss der Facilitator sowohl
-    dem Kreis-Lead als auch dem Kreis-Rep des Sub-Kreises die Gelegenheit
-    geben, Aktualisierungen mitzuteilen.
+    einer Accountability eines Sub-Kreises muss der Facilitator
+    dem Kreis-Lead die Gelegenheit geben, Aktualisierungen mitzuteilen.
 
 * (e) **Triage-Punkte:** Der Facilitator ist dafür verantwortlich, eine
     Agenda der Spannungen zu erstellen, die im Tactical Meeting
@@ -1488,7 +1485,7 @@ spezifiziert.
 
 ### 5.2.5 KEIN SUPER-KREIS
 
-Das Board hat keinen Super-Kreis und wählt keinen Kreis-Rep.
+Das Board hat keinen Super-Kreis.
 
 ## 5.3 STARTSTRUKTUR
 Der Kreis-Lead des Boards kann außerhalb des von dieser Verfassung
@@ -1550,23 +1547,6 @@ der Organisation darauf zugreifen können.
     realisieren
 
 _Der Kreis-Lead übernimmt auch alle nicht delegierten Domains und Accountabilities auf Kreisebene._
-
-## KREIS-REP
-**PURPOSE:** _Innerhalb des Super-Kreises übernimmt der Kreis-Rep den
-Purpose des Sub-Kreises; innerhalb des Sub-Kreises ist der Purpose des
-Kreis-Reps: Spannungen, die relevant für die Verarbeitung im
-Super-Kreis sind zu kanalisieren und aufzulösen._
-
-**ACCOUNTABILITIES:**
-
-* Beseitigen von Einschränkungen innerhalb der übergeordneten
-    Organisation, die den Sub-Kreis einschränken
-* Versuchen, Spannungen zu verstehen, welche von Kreismitgliedern des
-    Sub-Kreises wahrgenommen wurden, und diejenigen zu identifizieren,
-    die für die Bearbeitung im Super-Kreis geeignet sind
-* Bereitstellen einer Sicht auf die Vitalität des Subkreises im
-    Super-Kreis, einschließlich Berichten über Metrics oder
-    Checklisten-Punkten, die dem gesamten Sub-Kreis übertragen wurden
 
 ## FACILITATOR
 **PURPOSE:** _Kreis-Governance und operative Praktiken im Einklang mit
